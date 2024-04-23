@@ -2,4 +2,4 @@
 Here we have project screenshot :
 
 
-![Screenshot](Screenshot.png)
+![screenshot](screenshot.png)
